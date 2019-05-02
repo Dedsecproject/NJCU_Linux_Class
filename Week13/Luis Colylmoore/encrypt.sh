@@ -1,3 +1,3 @@
 #!/bin/bash
 
-cat TopSecurity.txt |tr 'A-Za-z' 'N-ZA-Mn-za-m'
+	 tr '[A-Za-z]' '[N-ZA-Mn-za-m]'
